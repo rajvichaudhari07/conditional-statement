@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+	int num=38;
+	if(num<45)
+	{
+		printf("The value is less than 25");
+	}
+	else
+	{
+		printf("The value is greater than 25");
+	}
+	return 0;
+}
